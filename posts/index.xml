@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Example Site</title>
+        <link>https://FlandGoEDU8864.github.io/NextFlandBe/posts/</link>
+        <description>Recent content in Posts on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 21 Jul 2025 11:32:46 +0800</lastBuildDate><atom:link href="https://FlandGoEDU8864.github.io/NextFlandBe/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MyNextCore</title>
+        <link>https://FlandGoEDU8864.github.io/NextFlandBe/posts/mynextcore/</link>
+        <pubDate>Mon, 21 Jul 2025 11:32:46 +0800</pubDate>
+        
+        <guid>https://FlandGoEDU8864.github.io/NextFlandBe/posts/mynextcore/</guid>
+        <description>&lt;p&gt;Hello This the Test Index&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
